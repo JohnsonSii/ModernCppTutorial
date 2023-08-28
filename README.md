@@ -1,7 +1,7 @@
 # 现代C++教程
 
 
-![cdf2567e9f3acfd75179eee1c6e1878b_125x140](https://github.com/JohnsonSii/ModernCppTutorial/assets/67853082/0274125d-d963-4044-9a20-d7644ce0f104)
+![cdf2567e9f3acfd75179eee1c6e1878b_82x92](https://github.com/JohnsonSii/ModernCppTutorial/assets/67853082/c0c88f82-568e-463b-8ed3-be636eba59c2)
 
 
 > 该项目还在构建阶段，示例代码不完善
