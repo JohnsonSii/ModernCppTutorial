@@ -5,7 +5,7 @@
 > 您可以在上方下载完整版`pdf`文档，仅供查阅
 
 
-![image](https://github.com/JohnsonSii/ModernCppTutorial/assets/67853082/bde5adfc-0a5d-4cf3-95e4-1eef493a3100)
+![cdf2567e9f3acfd75179eee1c6e1878b_125x140](https://github.com/JohnsonSii/ModernCppTutorial/assets/67853082/0274125d-d963-4044-9a20-d7644ce0f104)
 
 
 ## 前言
